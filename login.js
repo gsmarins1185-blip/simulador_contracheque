@@ -9,8 +9,8 @@
    =================================================================== */
 
 document.addEventListener('DOMContentLoaded', function () {
-  const USUARIO = 'pmerj';
-  const SENHA   = 'dcp1010';
+  const USUARIO = 'teste';
+  const SENHA   = 'suvce1-medkiw';
 
   const inUser = document.getElementById('usuario');
   const inSenha = document.getElementById('senha');
